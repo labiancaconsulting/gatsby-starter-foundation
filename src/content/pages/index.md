@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Oystein S LaBianca
+tagline: Anthropologist/Historian
+featuredImage: /assets/oystein-s-labianca.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
